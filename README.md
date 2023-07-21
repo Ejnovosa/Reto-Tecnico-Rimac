@@ -2,9 +2,9 @@
 Reto con aws, serverless, node js, mysql, SWAPI
 # Requisitos mínimos 
 
-DocumENTACIón por puntos 
+Documentación por puntos 
 
-1 primero npm install serverless
+1 Primero npm install serverless (para instalar 
 2 Tener una instancia de mysql, crear la base de datos y la tabla contenidog en scripts.sql
 3 ir al proyecto npm install , dependencia mysql y axios
 4 dentro del proyecto sls offline para levantar la aplicacion de manera local
