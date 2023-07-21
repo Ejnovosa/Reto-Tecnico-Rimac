@@ -11,7 +11,6 @@ Documentación por puntos
 5 lanzar sls deploy para desplegar la aplicación en la nube
 6 Para ejecutar las pruebas unitarias, lanzar npm run test
 
-node 16 o superior
 
 # Consumir las apis 
 1 Ingresar a postman, y crear  nueva collecion
